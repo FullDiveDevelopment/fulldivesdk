@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3/fNyw67qxE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\slimb\\source\\repos\\FulldiveSDK\\FullDiveSDK.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\slimb\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.26100.57\\microsoft.windows.sdk.net.ref.10.0.26100.57.nupkg.sha512"
+  ],
+  "logs": []
+}
