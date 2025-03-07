@@ -1,12 +1,13 @@
-﻿namespace FullDiveSDK
+﻿using FullDiveSDK;
+using FullDiveSDK.Player;
+
+namespace FullDiveSDK
 {
     public class MainClass
     {
         public class PlayerVelocity : Velocity
         {
-            Velocity Velocity { get; set; }
-
-            public static readonly PlayerVelocity Instance = new PlayerVelocity();
+            public Velocity? Velocity { get; set; }
         }
         public static string? GetWorld { get; set; }
         public static string? WindowHeight { get; set; }
