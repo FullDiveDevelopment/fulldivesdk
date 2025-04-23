@@ -2,3 +2,16 @@ C:\Users\slimb\source\repos\FulldiveSDK\obj\Debug\net8.0-windows10.0.26100.0\Ful
 C:\Users\slimb\source\repos\FulldiveSDK\obj\Debug\net8.0-windows10.0.26100.0\FullDiveSDK.AssemblyInfoInputs.cache
 C:\Users\slimb\source\repos\FulldiveSDK\obj\Debug\net8.0-windows10.0.26100.0\FullDiveSDK.AssemblyInfo.cs
 C:\Users\slimb\source\repos\FulldiveSDK\obj\Debug\net8.0-windows10.0.26100.0\FullDiveSDK.csproj.CoreCompileInputs.cache
+C:\Users\slimb\source\repos\FullDiveSDK\bin\Debug\net8.0-windows10.0.26100.0\FullDiveSDK.exe
+C:\Users\slimb\source\repos\FullDiveSDK\bin\Debug\net8.0-windows10.0.26100.0\FullDiveSDK.deps.json
+C:\Users\slimb\source\repos\FullDiveSDK\bin\Debug\net8.0-windows10.0.26100.0\FullDiveSDK.runtimeconfig.json
+C:\Users\slimb\source\repos\FullDiveSDK\bin\Debug\net8.0-windows10.0.26100.0\FullDiveSDK.dll
+C:\Users\slimb\source\repos\FullDiveSDK\bin\Debug\net8.0-windows10.0.26100.0\FullDiveSDK.pdb
+C:\Users\slimb\source\repos\FullDiveSDK\bin\Debug\net8.0-windows10.0.26100.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\slimb\source\repos\FullDiveSDK\bin\Debug\net8.0-windows10.0.26100.0\WinRT.Runtime.dll
+C:\Users\slimb\source\repos\FullDiveSDK\obj\Debug\net8.0-windows10.0.26100.0\FullDive.06164AAB.Up2Date
+C:\Users\slimb\source\repos\FullDiveSDK\obj\Debug\net8.0-windows10.0.26100.0\FullDiveSDK.dll
+C:\Users\slimb\source\repos\FullDiveSDK\obj\Debug\net8.0-windows10.0.26100.0\refint\FullDiveSDK.dll
+C:\Users\slimb\source\repos\FullDiveSDK\obj\Debug\net8.0-windows10.0.26100.0\FullDiveSDK.pdb
+C:\Users\slimb\source\repos\FullDiveSDK\obj\Debug\net8.0-windows10.0.26100.0\FullDiveSDK.genruntimeconfig.cache
+C:\Users\slimb\source\repos\FullDiveSDK\obj\Debug\net8.0-windows10.0.26100.0\ref\FullDiveSDK.dll

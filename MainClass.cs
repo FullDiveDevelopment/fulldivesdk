@@ -1,25 +1,44 @@
-﻿using FullDiveSDK;
-using FullDiveSDK.Player;
+﻿using FullDiveSDK.Player;
+using System.Net.Http;
+using System.Net.Http.Json;
 
 namespace FullDiveSDK
 {
     public class MainClass
     {
+        public void Main()
+        {
+            Console.WriteLine("SDK Initializing");
+            
+
+        }
+
+
+        public static HttpClient Server(string IPAddress, int Port)
+        {
+            // Work in Progress
+
+            return new HttpClient();
+        }
+
+        public class New(string WorldName, bool isOnline) {
+            
+            public JsonContent JsonContent = JsonContent.Create(new
+            {
+                WorldName = WorldName,
+                isOnline = isOnline,
+            });
+        }
+
+
         public class PlayerVelocity : Velocity
         {
             public Velocity? Velocity { get; set; }
         }
         public static string? GetWorld { get; set; }
-        public static string? WindowHeight { get; set; }
-        public static string? WindowWidth { get; set; }
-        public static object? Player { get; set; }
         public static string GetVersion(int Version)
         {
             return GetVersion(Version);
-        }
-        public static string GetApplication(string AppName, int AppHeight, int AppWidth)
-        {
-            return GetApplication(AppName, AppHeight, AppWidth);
         }
         public static int GetObjectXYZ(int X, int Y, int Z)
         {
