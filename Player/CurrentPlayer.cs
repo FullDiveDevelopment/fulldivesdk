@@ -1,9 +1,14 @@
 ﻿using FullDiveSDK.Player;
+using System.Runtime.CompilerServices;
 
 namespace Player
 {
-    public class CurrentPlayer
+    public class Player
     {
-        Player? Player { get; set; }
+        public static void Main()
+        {
+            // this is empty on purpose
+        }
+        // Work in Progress
     }
 }
