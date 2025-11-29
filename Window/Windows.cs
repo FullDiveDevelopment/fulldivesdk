@@ -1,4 +1,3 @@
-﻿using Microsoft.VisualBasic.ApplicationServices;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -44,3 +43,4 @@ namespace FullDiveSDK.Windows
         public bool IsFocusable { get; set; }
     }
 }
+
